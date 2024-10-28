@@ -1,21 +1,21 @@
 ![alt text](tampilan.png)
 
 
-untuk menambahkan element tool bar pada bagian header:
+untuk menambahkan element tool bar pada bagian <ion-header> menggunakan <ion-toolbar> yang di dalamnya terdapat <ion-title> untuk menulis judulnya.
 <ion-header>    
   <ion-toolbar>
     <ion-title>Selamat Datang di Aplikasi Saya</ion-title>
   </ion-toolbar>
 </ion-header>
 
-Tag ini untuk menambahkan elemen Card:
+Tag <ion-card> untuk menambahkan elemen Card.
 <ion-card>
 ...
 </ion-card>
 caranya, tag <ion-card> akan di letakkan di dalam tag <ion-content>.
 
 Kemudian untuk cardnya terdapat 2 bagian, yaitu ion-card-header dan ion-card-element.
-Untuk headernya berisi Judul dari masing-masing Card:
+Untuk headernya berisi Judul dari masing-masing Card.
 <ion-card-header>
       <ion-card-title>Profil Mahasiswa</ion-card-title>
 </ion-card-header>
