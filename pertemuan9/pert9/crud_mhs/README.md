@@ -17,7 +17,7 @@ Untuk menampilkan data, data di ambil dari file tampil.php yang berisi fungsi un
 Dalam proses update, data yang akan di update dimuat melalui file lihat.php, kemudian ditampilkan melalui model Edit pada file ionic. kemudian diperbarui dengan memuat file edit.php.
 
 # Delete Mahasiswa
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e729b83-0879-47e9-8008-cb0e7a466d93)
 
 Dalam proses penghapusan data, request dikirim ke file hapus.php di mana di dalam file ini perintah delete dilakukan berdasarkan ID. 
 
