@@ -1,7 +1,10 @@
 # Tugas Pertemuan 10
 
 <table align="center">
-  
+  <tr>
+    <td>Halaman Sign In</td>
+    <td>Pop Up Sign In</td>
+  </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147" width="150" height="280"></td>
