@@ -11,6 +11,21 @@
   </tr>
 </table>
 
+### Proses Sign In
+
+Ketika user klik sign in, maka akan muncul pop up untuk memilih user akan login dengan akun google yang mana. kemudian setelah user memilih, akan dilakukan proses autentikasi, dan apabila berhasil akan langsung diarahkan ke halaman Home.
+
+
+<table align="center">
+  <tr align="center">
+    <td>Halaman Home</td>
+    <td>Halaman Profile</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/209d7970-501d-4c56-8afa-f29be2ca76c7" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/bd00fd64-7392-49b6-98dc-a24a4367b0bb" width="150" height="280"></td>
+  </tr>
+</table>
 
 
 ![image](https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147) Halaman sign in google
