@@ -2,7 +2,7 @@
 
 | Sign In  | Pop up sign in |
 | ------------- | ------------- |
-| <img src="[image](https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147)" width="150" height="280">  | <img src="(https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147)" width="150" height="280">)" width="150" height="280">  |
+| <img src="![image](https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147)" width="150" height="280">  | <img src="(https://github.com/user-attachments/assets/761342b1-73cf-4c6f-a453-160774ded147)" width="150" height="280">  |
 | Content Cell  | Content Cell  |
 
 
