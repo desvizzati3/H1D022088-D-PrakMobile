@@ -1,7 +1,7 @@
 # Tugas Pertemuan 10
 
 <table align="center">
-  <tr>
+  <tr align="center">
     <td>Halaman Sign In</td>
     <td>Pop Up Sign In</td>
   </tr>
