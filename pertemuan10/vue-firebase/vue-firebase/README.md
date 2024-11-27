@@ -76,17 +76,16 @@ Pada halaman Profile terdapat foto profile dari akun google dan data Nama Penggu
     <td>Pop Up Sign In</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/32f1a01c-da93-48b5-a38f-096913a608c1" width="150" height="280"></td>
-    <td><img src="https://github.com/user-attachments/assets/1e9acc06-0850-48a5-b1b2-54ef8259053c" width="150" height="280"></td>
+  
     <td><img src="https://github.com/user-attachments/assets/68d11c03-473a-422f-8bf6-130c5dfbe6a6" width="150" height="280"></td>
-    <td><img src="https://github.com/user-attachments/assets/43882ce7-c6fb-4434-83c3-0a2b533a4827" width="150" height="280"></td>
+    
     <td><img src="https://github.com/user-attachments/assets/a691c261-8aff-4f7f-b0a3-9896756866af" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/6d3007d3-8b12-43fd-aa59-4cac760dd45e" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/6d3007d3-8b12-43fd-aa59-4cac760dd45e" width="150" height="280"></td>
   </tr>
 </table>
 
-### Create To DO List
+## Create To DO List
 <table align="center">
   <tr align="center">
     <td>Home</td>
@@ -95,6 +94,47 @@ Pada halaman Profile terdapat foto profile dari akun google dan data Nama Penggu
   </tr>
   <tr align="center">
     <td><img src="https://github.com/user-attachments/assets/f525c409-691c-45e4-8d37-931bae2563e7" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/3273856c-90d9-4dd9-a216-1788cfc73f7e" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/9bd33939-6509-4bfe-b262-86a2173b49e4" width="150" height="280"></td>
+  </tr>
+</table>
+
+Lampiran printscreen di atas adalah tampilan pembuatan To Do List, dengan cara klik tombol Add (+) kemudian isikan judul to do list dan descriptionnya, kemudian Add Todo. Kemudain jika berhasil akan muncul pop up 'Todo added successfully' berwarna hijau, dan akan tampil di halaman Home.
+
+## Completed Todo
+<table align="center">
+  <tr align="center">
+    <td>Completed Todo</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/f72d8424-7099-4fe3-adb5-32c942c80d4e" width="150" height="280"></td>
+  </tr>
+</table>
+
+Jika ingin Completed sebuah Todo, maka slide ke Kiri, kemudian tap Completed, maka akan otomatis masuk ke kolom COmpleted yang ada pada bagian bawah (berupa dropdown)
+
+## Delete Todo
+<table align="center">
+  <tr align="center">
+    <td>Delete Todo</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/43882ce7-c6fb-4434-83c3-0a2b533a4827" width="150" height="280"></td>
+  </tr>
+</table>
+
+Untuk menghapus Todo, slide Todo ke kanan, maka akan ter-Delete dan muncul notifikasi berhasil berwarna hijau.
+
+
+## Edit Todo
+<table align="center">
+  <tr align="center">
+    <td>Edit  Todo</td>
+    <td>Form Edit</td>
+    <td>Hasil</td>
+  </tr>
+  <tr align="center">
+     <td><img src="https://github.com/user-attachments/assets/1e9acc06-0850-48a5-b1b2-54ef8259053c" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/3273856c-90d9-4dd9-a216-1788cfc73f7e" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/9bd33939-6509-4bfe-b262-86a2173b49e4" width="150" height="280"></td>
   </tr>
