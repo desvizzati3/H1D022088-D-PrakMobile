@@ -82,8 +82,8 @@ Pada halaman Profile terdapat foto profile dari akun google dan data Nama Penggu
     <td><img src="https://github.com/user-attachments/assets/32f1a01c-da93-48b5-a38f-096913a608c1" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/1e9acc06-0850-48a5-b1b2-54ef8259053c" width="150" height="280"></td>
     <td><img src="https://github.com/user-attachments/assets/68d11c03-473a-422f-8bf6-130c5dfbe6a6" width="150" height="280"></td>
-    <td><img src="![image](https://github.com/user-attachments/assets/ee38300d-15ed-4989-8401-9ef674751fe1)
-" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/ee38300d-15ed-4989-8401-9ef674751fe1" width="150" height="280"></td>
+    
     
   </tr>
 </table>
