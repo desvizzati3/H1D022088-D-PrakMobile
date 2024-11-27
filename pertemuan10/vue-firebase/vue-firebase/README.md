@@ -68,6 +68,21 @@ Pada halaman Profile terdapat foto profile dari akun google dan data Nama Penggu
 - State user di Pinia direset.
 - Pengguna akan diarahkan kembali ke halaman login.
 
+# Tugas Pertemuan 11
+
+<table align="center">
+  <tr align="center">
+    <td>Halaman Sign In</td>
+    <td>Pop Up Sign In</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f525c409-691c-45e4-8d37-931bae2563e7" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/3273856c-90d9-4dd9-a216-1788cfc73f7e" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/9bd33939-6509-4bfe-b262-86a2173b49e4" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/dae9c224-9f6a-4af9-b0fb-29579f0f0ae6" width="150" height="280"></td>
+    
+  </tr>
+</table>
 
 
 
