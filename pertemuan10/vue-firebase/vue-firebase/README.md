@@ -68,6 +68,82 @@ Pada halaman Profile terdapat foto profile dari akun google dan data Nama Penggu
 - State user di Pinia direset.
 - Pengguna akan diarahkan kembali ke halaman login.
 
+# Tugas Pertemuan 11
+
+<table align="center">
+  <tr align="center">
+    <td>Halaman Sign In</td>
+    <td>Pop Up Sign In</td>
+  </tr>
+  <tr>
+  
+    <td><img src="https://github.com/user-attachments/assets/68d11c03-473a-422f-8bf6-130c5dfbe6a6" width="150" height="280"></td>
+    
+    <td><img src="https://github.com/user-attachments/assets/a691c261-8aff-4f7f-b0a3-9896756866af" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/6d3007d3-8b12-43fd-aa59-4cac760dd45e" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/6d3007d3-8b12-43fd-aa59-4cac760dd45e" width="150" height="280"></td>
+  </tr>
+</table>
+
+## Create To DO List
+<table align="center">
+  <tr align="center">
+    <td>Home</td>
+    <td>Form Create</td>
+    <td>Hasil</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/f525c409-691c-45e4-8d37-931bae2563e7" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/3273856c-90d9-4dd9-a216-1788cfc73f7e" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/9bd33939-6509-4bfe-b262-86a2173b49e4" width="150" height="280"></td>
+  </tr>
+</table>
+
+Lampiran printscreen di atas adalah tampilan pembuatan To Do List, dengan cara klik tombol Add (+) kemudian isikan judul to do list dan descriptionnya, kemudian Add Todo. Kemudain jika berhasil akan muncul pop up 'Todo added successfully' berwarna hijau, dan akan tampil di halaman Home.
+
+## Completed Todo
+<table align="center">
+  <tr align="center">
+    <td>Completed Todo</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/f72d8424-7099-4fe3-adb5-32c942c80d4e" width="150" height="280"></td>
+  </tr>
+</table>
+
+Jika ingin Completed sebuah Todo, maka slide ke Kiri, kemudian tap Completed, maka akan otomatis masuk ke kolom COmpleted yang ada pada bagian bawah (berupa dropdown)
+
+## Delete Todo
+<table align="center">
+  <tr align="center">
+    <td>Delete Todo</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/f88354cd-ea22-4e58-9c72-b0a07cf0e633" width="150" height="280"></td>
+  </tr>
+</table>
+
+Untuk menghapus Todo, slide Todo ke kanan, maka akan ter-Delete dan muncul notifikasi berhasil berwarna hijau.
+
+
+## Edit Todo
+<table align="center">
+  <tr align="center">
+    <td>Pilih Todo</td>
+    <td>Pilih Edit</td>
+    <td>Form Edit</td>
+    <td>Hasil</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/48917b24-4528-4d61-a90a-6819511aba2a" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/f3319dfa-a1f0-4ee4-be3c-36e4995867ef" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/f22de153-06a7-456a-a81b-6650f6cdcfbf" width="150" height="280"></td>
+    <td><img src="https://github.com/user-attachments/assets/02b908c1-4664-4942-a169-f99eb9e22971" width="150" height="280"></td>
+  </tr>
+</table>
+
+Untuk melakukan Edit, slide Todo yang akan di edit ke kiri, kemudian pilih icon edit yang berwarna biru. Setelah masuk ke halaman Edit, lakukan edit lalu klik tombol Edit Todo. Maka Todo sudah berhasil di edit dan muncul notifikansi berhasil Edit todo.
+
 
 
 
